@@ -1,7 +1,7 @@
 {
   "name": "rest_api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic Rest API",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
