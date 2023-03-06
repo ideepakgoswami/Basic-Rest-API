@@ -1,4 +1,4 @@
-# SIMPLE REST API with CRUD Operations FOR BEGINNERS
+# REST API with CRUD Operations
 
 This is a RESTful API built using Node.js, Express.js, and Mongoose that performs CRUD operations using HTTP methods GET, POST, PUT, and DELETE.
 
